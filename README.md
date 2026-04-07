@@ -64,6 +64,7 @@ Open Termux and run:
 ```bash
 pkg update && pkg upgrade -y
 pkg install git wget curl proot tar -y
+pkg install proot-distro -y
 ```
 
 ---
